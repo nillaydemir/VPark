@@ -1,0 +1,1 @@
+[ id: 1 isAvailable: true plateNumber: 2 numberOfTires: 2 color: 2 numOfDoors: 2 seatingCapacity: 2 horse power: 2][ id: 1 isAvailable: true plateNumber: 2 numberOfTires: 2 color: 2 numOfDoors: 2 seatingCapacity: 2 horse power: 2]
